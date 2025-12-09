@@ -1,0 +1,27 @@
+# Core AI framework
+pydantic-ai
+
+# MCP client
+fastmcp
+
+# LLM providers
+openai
+
+# Async support for Jupyter
+nest-asyncio
+
+# Environment variables
+python-dotenv
+
+# Jupyter widgets for chat interface
+ipywidgets
+
+# Enhanced agent visualization dependencies
+folium
+matplotlib
+markdown
+
+# Observability (optional - only for logfire notebook)
+logfire
+opentelemetry-instrumentation-openai
+opentelemetry-instrumentation-httpx
